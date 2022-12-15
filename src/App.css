@@ -1,38 +1,37 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto+Condensed:wght@300;400;700&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+/*Kleuren pallet:*/
+/*Rood #dd3038;*/
+/*Oranje #e7613a;*/
+/*Licht oranje #FDF4F2;*/
+/*Zwart #292929 (voor standaard tekst);*/
+/*Wit #FFFFFF;*/
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+/*Table of contents*/
+/*
+1. Global Style
+2. Typography
+3. Lay-out
+4. Areas
+  4.1 header
+  4.2 navigation
+  4.3 introduction
+  4.4 sections
+    4.4.1 section 1
+    4.4.2 section 2
+  4.5 footer
+  4.6 media queries
+*/
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+/*  1. Global Style*/
+/*  2. Typography*/
+/*  3. Lay-out*/
+/*  4. Areas*/
+/*      4.1 header*/
+/*      4.2 navigation*/
+/*      4.3 introduction*/
+/*      4.4 sections*/
+/*            4.4.1 section 1*/
+/*            4.4.2 section 2*/
+/*      4.5 footer*/
+/*      4.6 media queries*/
